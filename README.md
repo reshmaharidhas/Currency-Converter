@@ -14,6 +14,9 @@ App to calculate currency conversion based on latest currency exchange rates.
 ## API used💻
 - <a href="https://currencyapi.com/">CurrencyAPI</a>
 
+## Features💱
+- Convert currency rates to 170 + world currencies quickly.
+
 ## Screenshots💻
 Converting from AED (United Arab Emirates Dirham) to (INR) Indian Rupee 
 ![image](https://github.com/user-attachments/assets/82817feb-5d66-4503-bfc7-9187776b3e7c)
