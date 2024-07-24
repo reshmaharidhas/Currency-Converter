@@ -5,13 +5,14 @@
   <img src="https://img.shields.io/github/license/reshmaharidhas/Currency-Converter"/>
 </p>
 App to calculate currency conversion based on latest currency exchange rates.
+
 ## Tech Stack💻
 - Python
 - Tkinter
 - REST API
 
 ## API used💻
-- CurrencyAPI
+- <a href="https://currencyapi.com/">CurrencyAPI</a>
 
 ## Screenshots💻
 Converting from AED (United Arab Emirates Dirham) to (INR) Indian Rupee 
