@@ -1,6 +1,7 @@
 # Currency-Converter   [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas%2FCurrency-Converter&labelColor=%2300ff00&countColor=%23000000&style=plastic&labelStyle=none"/>
+  <img src="https://img.shields.io/github/languages/code-size/reshmaharidhas/Currency-Converter"/>
   <img src="https://img.shields.io/github/languages/top/reshmaharidhas/Currency-Converter"/>
   <img src="https://img.shields.io/github/license/reshmaharidhas/Currency-Converter"/>
 </p>
