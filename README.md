@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/github/watchers/reshmaharidhas/Currency-Converter"/>
   <img src="https://img.shields.io/github/languages/code-size/reshmaharidhas/Currency-Converter"/>
   <img src="https://img.shields.io/github/languages/top/reshmaharidhas/Currency-Converter"/>
+  <img src="https://img.shields.io/github/v/release/reshmaharidhas/Currency-Converter"/>
   <img src="https://img.shields.io/github/license/reshmaharidhas/Currency-Converter"/>
 </p>
 App to calculate currency conversion based on latest currency exchange rates.
